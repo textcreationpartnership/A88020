@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to His Majestie, from a honorable member of the House of Commons: Munday the 27. of February. Concerning the great affaires and distractions of this kingdome.</title>
+            <author>Honorable member of the House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88020</idno>
+            <idno type="STC">Wing L1618</idno>
+            <idno type="STC">Thomason E91_14</idno>
+            <idno type="STC">ESTC R11606</idno>
+            <idno type="EEBO-CITATION">99859080</idno>
+            <idno type="PROQUEST">99859080</idno>
+            <idno type="VID">111145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111145)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to His Majestie, from a honorable member of the House of Commons: Munday the 27. of February. Concerning the great affaires and distractions of this kingdome.</title>
+                  <author>Honorable member of the House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642 March. 1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111145:1"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:111145:1"/>
+            <!-- PDF PAGE 28 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:111145:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:111145:2"/>
+            <!-- PDF PAGE 29 -->
+            <head>A Letter ſent to His MAJESTY: by an Honourable Member of the Houſe of <hi>COMMONS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y neceſſary Perſwaſion and inducement on the behalfe of my ſelfe &amp; the other your faithfull ſubjects members of your houſe of Commons accuſed of high Treaſon: I am forced to informe your Majeſty of the integrity of our affections and innocency of our proceeding, in the great affaires of this Common wealth wherein we have bin imployed by your Majeſty.</p>
+            <p>Beſides our ſorowes (which preſſed us very ſore and ſtill remaineth upon us) the troubles and griefe that fell upon us, for the lamentable breaches in Church and State, and ſo your ſacreed Majeſty and hopefull off<g ref="char:EOLhyphen"/>ſpring filled up our ſorrowes and in our thoughts were
+<pb facs="tcp:111145:3"/>
+               <!-- PDF PAGE 30 -->
+grieved that ſuch feares and deſolations fell out in your dayes, we confeſſe that charity ſuſpects not, and the beſt minds thinke the leaſt hurt, and the freer a man is from vice in himſelfe, the more charitable he is of others, and this is that which hath proved prejudicall to your Ma<g ref="char:EOLhyphen"/>jeſty, but had your MAJESTIE bin the firſt that had bin miſinformed, or ill rewarded it would be an hard thing to command patience, but griefe is aſweged by preſidents or examples. Jt is true your Majeſty be<g ref="char:EOLhyphen"/>ing miſinformed againſt us your faithfull ſervants and ſubjects, your Majeſty thought to have dealt with us, as <hi>Joſeph</hi> thought to have dealt with <hi>Mary,</hi> and ſo put them a way farr from you, but with <hi>Mary</hi> they travil<g ref="char:EOLhyphen"/>led as it were with child, and that which they traviled withall might not appeare an illegtinate the only wiſe God ſent as it were an Angell unto you, to let you ſee that like Mary they being contracted unto you in love they have not as yet defiled their marriage bed, but re<g ref="char:EOLhyphen"/>maine like Mary faithfull to their head and Soveraigne; And your Majeſty ſeduced by falſe oppinions from o<g ref="char:EOLhyphen"/>thers againſt them, we hope you will be now reduced to them by true perſwaſions; and that you may be ſoe the only wiſe God, that gave your Majeſty your being, and ſo knew you better then your ſelfe, hath dealt with your Majeſty as he did with Adam in Paradiſe, provid<g ref="char:EOLhyphen"/>ed you a meete helper, when with Adam you thought
+<pb facs="tcp:111145:3"/>
+               <!-- PDF PAGE 30 -->
+we need of it; And if your Majeſty yeeld as Adam did in ſparing a ſuperfluous rib, will becom a great gainer, for your Majeſty ſhall not only looſe thoſe who may ve<g ref="char:EOLhyphen"/>ry well be ſpared, but you will gaine to your ſelfe and poſterity a meete helper, that will endeavour by all meanes that may be lawfull to eaſe you of the many burthens that lye heavy upon you, and conſidering the paines of that body whereof you are the head, great in<g ref="char:EOLhyphen"/>juſtice is done them by accuſing them; for by this me<g ref="char:EOLhyphen"/>anes your good ſubjects are bereaved of thoſe benifits that ought to be common to all: As for your Com<g ref="char:EOLhyphen"/>mons, they goe not about to ſteale your favour, but purchaſe them legally, and are become unto you as Abrahams ſervant was unto his Mr. who would not ei<g ref="char:EOLhyphen"/>ther eate or drinke, untill he had done his Maſters bu<g ref="char:EOLhyphen"/>ſineſse; And J dare ſay if your Commons (as the late menopolits and others did ſeeke themſelves or their owne advantages more then the good of King &amp; King<g ref="char:EOLhyphen"/>dome, they would have bin received after ſo much la<g ref="char:EOLhyphen"/>bour before now, but we ſay as Adam and let us be but one and that it might have bin ſo we have bin willing to be ſeperated from our demeſticke imployments, yea, to forſake all and runn through many hazards and per<g ref="char:EOLhyphen"/>ilous dangers to cleave onely to your Majeſty in a ſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emne contract, therefore to make up the contract you muſt part with your evill Councellors that are neere un<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:111145:4"/>
+               <!-- PDF PAGE 31 -->
+you and ſpare a part to ſave the reſt, being done it will prove to your Majeſty as comfortable and welcom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as <hi>Rebeckca</hi> was in <hi>Iſaakes</hi> tent. This happie match being made, it would not only refreſh your people but make glad your hearts in theſe tims of feares &amp; dangers, it is the nigheſt way to a bleſsing, and the hopes of this is that which hath brought us to renew and con<g ref="char:EOLhyphen"/>firme the Covenant that your Majeſty made with us; from your firſt entrance to the Crown, and becauſe you could not ſweare by no greater, ſwore by the Eternall God that you would defend us, and at the firſt of our contract we made but one, your power and all that you had was ours to defend us; and do us good; But thoſe now neere you and about you have ſet your Majeſty a<g ref="char:EOLhyphen"/>gainſt us, and perſwade you to beat us, and force us to obedience; though of our ſelves willing to obey: being fore troubled within our ſelves, when we ſee your your Majeſty (whoe is become our head and husband) ſtrange unto us, but wee hope theſe unnaturall breaches being compoſed and reconciled love will be united ſtronger then before, wherefore be reconciled to your Commons and to us your faithfull and Loyall ſervants ſhall live love and dye togather and be more firme in your new unian then ever devided in your heart un<g ref="char:EOLhyphen"/>kindneſſes ſo ſhall you meete in the end and new Por<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but be like <hi>Rachell</hi> and <hi>Leah</hi> which two built up th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:111145:4"/>
+               <!-- PDF PAGE 31 -->
+houſe of <hi>Iſraell,</hi> we have endeavoured to put you in a<g ref="char:EOLhyphen"/>way to unity now you are in the way keepe it, it is ſaid that whyleſt <hi>Abraham</hi> ſervant was in in the way God bleſſed him, the ſame God bleſſe your Majeſty and for your comfort and incouragement know by ſomuch that you grow to perfection by how much you draw nere to unity we confeſse had the baules and baulums of our times beene ſo evill as they would have bine the world had bene overcome with evill but ſuch is the wiſdome of God that offtimes he hides from evill men thoſe times and ſeaſons that might prove prejudicicall to his People, but we have ſeene and felt, both great in<g ref="char:EOLhyphen"/>ward ſorrow and outward perplexity that by the meanes of our baalems your Majeſty is become to your People and commons as the Angell are unto Gideon and ſo made them afraid, but we humbly and earneſtly deſire your Majeſty to recomfort your People by retur<g ref="char:EOLhyphen"/>ning to the wholeſome concell of your Parliament, and injoy them againe by a willing contract and not by ra<g ref="char:EOLunhyphen"/>viſhment, we ſhall you appeace unto your your People like moſes who had more glory by his vaile then by his face and we doubt not but when all things thus be made manifeſt, and the integrity and innocency of our proceedings rightly underſtood by your Majeſty, but that one faithfull david will be in more accompt with your Majeſty then all the Pharaſites and Atchittophells
+<pb facs="tcp:111145:5"/>
+               <!-- PDF PAGE 32 -->
+of your campe, for our plaine conditions we doubt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but the effect of our endeavoures will make it appear to all the world (to the Conunceing or confuſion o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our malitions enemies, who are no otherwiſe to you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty if they might be onceaſed) and ſatisfaction o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your M. that we have aimed at nothing but the vvord of God in defending his true Religion your Majeſtie perſon and poſteritie from force and violence, and the fundamentall Lawes of this Kingdome, and juſt prero<g ref="char:EOLhyphen"/>gatives of the Crowne from diſtraction.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
